@@ -15,7 +15,7 @@ Features
 - GETPIVOTDATA formulas for real-time KPI extraction
 - Line chart to visualize average tenure over years
 - Clean layout ready for dashboard presentation
-- Dashboard interaction 
+- Dashboard interaction <a href="https://github.com/zarifamammadova/my-excel-dashboard2/blob/main/Screenshot%202025-06-22%20164227.png">View Dashboard</a>
 
 ## Dasboard 
 ![Screenshot 2025-06-22 164159](https://github.com/user-attachments/assets/fe466061-edb3-4836-89ba-6a075b5dfe05)
