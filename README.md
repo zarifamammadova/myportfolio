@@ -1,5 +1,7 @@
 # Employee Insights Dashboard
-
+## DataSet Used 
+- <a href=https://github.com/zarifamammadova/my-excel-dashboard2/blob/main/SECONDDASHBOARD.xlsx>DataSet</a>
+------------------------------------------------------------
 This Excel dashboard presents key employee metrics such as:
 
 - Average number of years employees have worked
@@ -13,11 +15,12 @@ Features
 - GETPIVOTDATA formulas for real-time KPI extraction
 - Line chart to visualize average tenure over years
 - Clean layout ready for dashboard presentation
+- Dashboard interaction 
 
 ## Dasboard 
 ![Screenshot 2025-06-22 164159](https://github.com/user-attachments/assets/fe466061-edb3-4836-89ba-6a075b5dfe05)
 
-## ✅ Conclusion
+## Conclusion
 
 This Excel dashboard provides a clear and concise overview of key employee metrics, such as tenure, satisfaction, and department-wise distribution. By leveraging Pivot Tables and dynamic formulas like GETPIVOTDATA, the report enables real-time analysis and data-driven insights. The visualizations, particularly the line chart of average tenure over years, help highlight trends and patterns in employee retention.
 
