@@ -76,6 +76,70 @@ The dataset used in this dashboard was sourced from the [Excel Online Practice](
 All data rights belong to their respective owners.  
 No commercial use is intended.
 
+------------------------------------------------
+# 📊 SQL Solutions – AdventureWorks Database
+
+This repository contains SQL queries based on the **AdventureWorks** sample database. The queries cover a wide range of SQL techniques such as `JOINs`, `Window Functions`, `Filtering`, `Aggregation`, and more. Each query is crafted to solve practical data-related problems.
+
+
+## 📁 File: `sample-query.sql`
+
+### 1️⃣ Employee Full Names and Cities
+**Description:** Retrieves full names of employees (`FirstName` + `LastName`) along with their city. Results are ordered by `LastName` and `FirstName`.
+
+---
+
+### 2️⃣ Filtered Sales Orders
+**Description:** Retrieves sales orders where:
+- `OrderQty` is greater than 5,
+- `UnitPriceDiscount` is less than 1000,
+- `TotalDue` is greater than 100.
+
+---
+
+## 📁 File: `employee-vacation.sql`
+
+### 3️⃣ Least Vacation Hours by Job Title
+**Description:** Uses `FIRST_VALUE()` to find the employee with the **least number of vacation hours** in each job title category.
+
+---
+
+## 📁 File: `sales-quota-analysis.sql`
+
+### 4️⃣ First and Last Quarter SalesQuota Difference
+**Description:** For employees with `BusinessEntityID` between 274 and 275 and years after 2005, calculates the difference between the **first and last quarter's sales quotas** using `FIRST_VALUE()` and `LAST_VALUE()`.
+
+---
+
+### 5️⃣ Next Year's SalesQuota using `LEAD()`
+**Description:** For `BusinessEntityID = 277` and years 2011–2012, fetches the current year's quota and the next year's using the `LEAD()` window function.
+
+---
+
+### 6️⃣ Next Quarter's SalesQuota and Difference
+**Description:** For `BusinessEntityID = 277` in 2012 and 2013, shows the quota and difference between current and next quarter using `LEAD()`.
+
+---
+
+## 📁 File: `inventory-ranking.sql`
+
+### 7️⃣ Product Ranking by Location
+**Description:** Uses `DENSE_RANK()` to rank products based on their location. Useful for inventory management insights.
+
+---
+
+## ✅ Technologies Used
+
+- **SQL Server (T-SQL)**
+- **AdventureWorks Sample Database**
+
+---
+
+## 📌 Purpose
+
+This repository was created for learning and practicing SQL with real-world database structures. Each query is written with clarity and structured for reusability.
+
+Feel free to explore, fork, or contribute!
 
 
 
