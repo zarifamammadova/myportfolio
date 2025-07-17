@@ -41,3 +41,67 @@ FIRST_VALUE(lastname) over (partition by jobtitle order by vacationhours) as few
 from HumanResources.Employee as hre
 join person.person as pp
 on pp.BusinessEntityID=hre.BusinessEntityID
+
+/*From the following table, write a query in SQL to return the BusinessEntityID, quarter, sales year, 
+and sales quota for the current quarter. Additionally, calculate the differences in sales quota from the first 
+and last quarters of the year for each salesperson. Only include records for years 
+after 2005 and for BusinessEntityIDs between 274 and 275. Order the results by BusinessEntityID, sales year, and quarter.*/
+select 
+	businessentityid,
+	DATEPART(quarter,quotadate) as quarter,
+	datepart(year,quotadate) as year,
+	SalesQuota,
+	SalesQuota-firstquarter as differencefirst,
+	SalesQuota-lastquarter as differencelast
+from(
+select
+	businessentityid,
+	DATEPART(quarter,quotadate) as quarter,
+	datepart(year,quotadate) as year,
+	SalesQuota,
+	quotadate,
+	first_value(SalesQuota) over (partition by businessentityid,datepart(year,quotadate) order by datepart(quarter,quotadate) desc ) as lastquarter,
+	first_value(SalesQuota) over (partition by businessentityid,datepart(year,quotadate) order by datepart(quarter,quotadate)  ) as firstquarter
+
+from Sales.SalesPersonQuotaHistory)t
+where datepart(year,quotadate)>2005 and BusinessEntityID between 274 and 275
+order by 
+BusinessEntityID,datepart(year,quotadate),DATEPART(quarter,quotadate)
+
+/*.From the following table, write a query in SQL to return the business entity ID, sales year, 
+current sales quota, and the next year's sales quota for a specific salesperson.
+Use the LEAD window function to get the next year's sales quota, defaulting to 0 if not available. 
+Filter the results for the salesperson with BusinessEntityID 277 for the years 2011 and 2012.*/
+select
+BusinessEntityID,
+year(quotadate) AS Year,
+SalesQuota,
+lead(salesquota,1,0) over (partition by businessentityid order by year(quotadate)) as nextyear
+from Sales.SalesPersonQuotaHistory
+where BusinessEntityID=277 and year(quotadate) in (2011,2012);
+
+/*From the following table, write a query in SQL to return the sales year, sales quarter,
+current sales quota, the next quarter's sales quota, and the difference between the current 
+and next quarter's sales quotas for a specific salesperson.
+Filter the results for the salesperson with BusinessEntityID 277 for the years 2012 and 2013.*/
+
+select *,
+SalesQuota-nextqsales as diff
+from(
+select
+businessentityid,
+year(quotadate) as year,
+datepart(quarter,quotadate) as quarter,
+salesquota,
+lead(salesquota,1,0) over (  partition by businessentityid order by year(quotadate),datepart(quarter,quotadate)) as nextqsales
+from Sales.SalesPersonQuotaHistory)t
+where businessentityid=277 and year between 2012 and 2013;
+
+/*From the following table write a query in SQL to rank the products in inventory, by the inventory 
+locationID values between 3 and 4, 
+according to their quantities. Divide the result set by LocationID and sort the result set on Quantity in descending order.*/
+select
+*,
+dense_rank() over (partition by locationid order by quantity desc) as rank
+from Production.ProductInventory
+where LocationID between 3 and 4;
