@@ -105,3 +105,25 @@ select
 dense_rank() over (partition by locationid order by quantity desc) as rank
 from Production.ProductInventory
 where LocationID between 3 and 4;
+---------------------
+/*Write a solution to find all sales that occurred in the first year each product was sold.
+For each product_id, identify the earliest year it appears in the Sales table.
+Return all sales entries for that product in that year.
+Return a table with the following columns: product_id, first_year, quantity, and price.
+Return the result in any order.*/
+select 
+    t.product_id,
+    price,
+    quantity,
+    first_year 
+from(
+select
+    distinct product_id,
+    min (year) as first_year
+    from sales
+    group by
+    product_id
+)t
+join sales s
+on t.product_id=s.product_id
+and first_year=s.year
