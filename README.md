@@ -26,8 +26,121 @@ This Excel dashboard provides a clear and concise overview of key employee metri
 
 This project demonstrates the practical application of Excel tools in HR analytics and can be a valuable component in a data analyst or HR specialist's portfolio.
 
+
+-----------------------------
+
+
 ##  License
 
 This project is shared for educational purposes only. Please do not reuse the data or visualizations in commercial projects without permission.
+
+------------------
+
+# Excel Sales & Discount Dashboard 
+
+## English
+## DataSet Used 
+- <a href="https://github.com/zarifamammadova/my-excel-dashboard/blob/main/sample%20(Recovered).xlsx">DataSet</a>
+
+###  Features:
+- Total and average actual sales revenue  
+- Average and total discount percentage  
+- List Price vs Actual Price difference  
+- Sales distribution by Country, Region, and Store  
+- Product and salesperson-level sales insights  
+- Slicers for interactive filtering (Country, Region, Store)
+
+###  Tools Used:
+- Microsoft Excel  
+- Pivot Tables and Pivot Charts  
+- Slicers  
+- Custom KPIs & Formulas  
+- Basic Dashboard layout with interactive elements
+- Dashboard interaction <a href="https://github.com/zarifamammadova/my-excel-dashboard/blob/main/Screenshot%202025-06-21%20132509.png">View Dashboard</a>
+
+## Dasboard 
+![Screenshot 2025-06-21 132509](https://github.com/user-attachments/assets/3e5231ba-ab51-4c70-98f8-b0d8951e1bdf)
+
+
+## Conclusion
+This project marks my first step into data analytics using Microsoft Excel.
+Through this dashboard, I gained hands-on experience with pivot tables, slicers, KPI creation, and turning raw data into meaningful visuals.
+I’m proud of this milestone and excited to continue learning tools like Power BI, SQL, and Python to deepen my skills in data analytics and business intelligence.
+
+--------------------------------------------------------
+## License and Data Source
+
+This project is created for educational and personal learning purposes only.  
+The dataset used in this dashboard was sourced from the [Excel Online Practice](https://excel-practice-online.com/) website, which provides publicly available sample data for Excel training.
+
+All data rights belong to their respective owners.  
+No commercial use is intended.
+
+------------------------------------------------
+# 📊 SQL Solutions – AdventureWorks Database
+
+This repository contains SQL queries based on the **AdventureWorks** sample database. The queries cover a wide range of SQL techniques such as `JOINs`, `Window Functions`, `Filtering`, `Aggregation`, and more. Each query is crafted to solve practical data-related problems.
+
+
+## 📁 File: `sample-query.sql`
+
+### 1️⃣ Employee Full Names and Cities
+**Description:** Retrieves full names of employees (`FirstName` + `LastName`) along with their city. Results are ordered by `LastName` and `FirstName`.
+
+---
+
+### 2️⃣ Filtered Sales Orders
+**Description:** Retrieves sales orders where:
+- `OrderQty` is greater than 5,
+- `UnitPriceDiscount` is less than 1000,
+- `TotalDue` is greater than 100.
+
+---
+
+## 📁 File: `employee-vacation.sql`
+
+### 3️⃣ Least Vacation Hours by Job Title
+**Description:** Uses `FIRST_VALUE()` to find the employee with the **least number of vacation hours** in each job title category.
+
+---
+
+## 📁 File: `sales-quota-analysis.sql`
+
+### 4️⃣ First and Last Quarter SalesQuota Difference
+**Description:** For employees with `BusinessEntityID` between 274 and 275 and years after 2005, calculates the difference between the **first and last quarter's sales quotas** using `FIRST_VALUE()` and `LAST_VALUE()`.
+
+---
+
+### 5️⃣ Next Year's SalesQuota using `LEAD()`
+**Description:** For `BusinessEntityID = 277` and years 2011–2012, fetches the current year's quota and the next year's using the `LEAD()` window function.
+
+---
+
+### 6️⃣ Next Quarter's SalesQuota and Difference
+**Description:** For `BusinessEntityID = 277` in 2012 and 2013, shows the quota and difference between current and next quarter using `LEAD()`.
+
+---
+
+## 📁 File: `inventory-ranking.sql`
+
+### 7️⃣ Product Ranking by Location
+**Description:** Uses `DENSE_RANK()` to rank products based on their location. Useful for inventory management insights.
+
+---
+
+## ✅ Technologies Used
+
+- **SQL Server (T-SQL)**
+- **AdventureWorks Sample Database**
+
+---
+
+## 📌 Purpose
+
+This repository was created for learning and practicing SQL with real-world database structures. Each query is written with clarity and structured for reusability.
+
+Feel free to explore, fork, or contribute!
+
+
 
 
