@@ -1,3 +1,66 @@
+#  Sales Performance Dashboard
+
+This project is an interactive **Excel dashboard** designed to analyze and visualize sales performance using key metrics and dynamic elements.
+
+---
+
+##  KPIs Analyzed
+
+The following Key Performance Indicators (KPIs) were used:
+
+- 💰 **Sales** (Current Year vs Previous Year)
+- 📦 **Quantity Sold**
+- 💸 **Cost**
+- 📈 **Profit**
+- 🔄 **Year-over-Year (YoY) Growth**
+
+---
+
+## 🛠️ Tools & Features Used
+
+- Excel Pivot Tables
+- Slicers for dynamic filtering
+- Named Ranges for dynamic references
+- Conditional Formatting
+- Interactive Text Boxes linked to KPIs
+- Custom formatting and design
+
+---
+
+##  Purpose
+
+The goal of this dashboard is to:
+
+- Identify key trends in sales and cost over time
+- Compare current vs previous year performance
+- Help decision-makers quickly interpret results
+- Create a user-friendly and clean interface
+
+---
+
+## 📎 Preview
+
+<img width="1412" height="676" alt="salesperformance" src="https://github.com/user-attachments/assets/e17208cf-3806-4104-a247-8fcf326a0a26" />
+
+
+---------------------
+
+##  Live Demo / View
+
+<a href=https://github.com/zarifamammadova/myportfolio/blob/main/salesperformance.xlsx>DataSet</a>
+
+##  Conclusion
+
+This project allowed me to practice building dynamic dashboards with Excel and visualize sales data in a meaningful way. It demonstrates my ability to combine data analysis with design to create clear and insightful reporting tools.  
+I look forward to applying similar skills in real-world business scenarios.
+
+## License
+
+This project is open-source and
+Feel free to use, modify, and share it with proper attribution.
+
+
+--------------------------------------------------------------------------------------------------
 # Employee Insights Dashboard
 ## DataSet Used 
 - <a href=https://github.com/zarifamammadova/my-excel-dashboard2/blob/main/SECONDDASHBOARD.xlsx>DataSet</a>
