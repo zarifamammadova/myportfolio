@@ -14,6 +14,8 @@ Duration between order and shipping dates
 <img width="1412" height="676" alt="furniture sales overwiew" src="https://github.com/zarifamammadova/myportfolio/blob/main/Screenshot%202025-07-19%20185432.png" />
 
 **The dashboard allows quick business insights and can help identify opportunities to optimize logistics and boost profitability.**
+##  view
+<a href=Furniture sales overview.xlsx>DataSet</a>
 
 **Dataset**
 The raw data (sheet: Dataset) contains:
@@ -33,11 +35,11 @@ This project is an interactive **Excel dashboard** designed to analyze and visua
 ##  KPIs Analyzed
 
 The following Key Performance Indicators (KPIs) were used:
--  **Sales** (Current Year vs Previous Year)
--  **Quantity Sold**
--  **Cost**
--  **Profit**
--  **Year-over-Year (YoY) Growth**
+-  **Sales** (Current Year vs Previous Year),  **Quantity Sold**, **Cost**, **Profit**, **Year-over-Year (YoY) Growth**
+
+## Preview
+
+<img width="1412" height="676" alt="salesperformance" src="https://github.com/user-attachments/assets/e17208cf-3806-4104-a247-8fcf326a0a26" />
 
 ## Tools & Features Used
 - Excel Pivot Tables
@@ -53,12 +55,8 @@ The following Key Performance Indicators (KPIs) were used:
 - Compare current vs previous year performance
 - Help decision-makers quickly interpret results
 - Create a user-friendly and clean interface
-- 
-## Preview
 
-<img width="1412" height="676" alt="salesperformance" src="https://github.com/user-attachments/assets/e17208cf-3806-4104-a247-8fcf326a0a26" />
-
-##  Live Demo / View
+##  View
 
 <a href=https://github.com/zarifamammadova/myportfolio/blob/main/salesperformance.xlsx>DataSet</a>
 
