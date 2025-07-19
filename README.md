@@ -22,13 +22,14 @@ The raw data (sheet: Dataset) contains:
 **Purpose**
 This project showcases my data visualization skills using Excel and highlights how raw data can be transformed into actionable insights.
 
+## License
+This project is open-source and
+Feel free to use, modify, and share it with proper attribution.
+
 ------------------------------------------------------------------------------------------
 #  Sales Performance Dashboard
 
 This project is an interactive **Excel dashboard** designed to analyze and visualize sales performance using key metrics and dynamic elements.
-
----
-
 ##  KPIs Analyzed
 
 The following Key Performance Indicators (KPIs) were used:
@@ -38,10 +39,7 @@ The following Key Performance Indicators (KPIs) were used:
 -  **Profit**
 -  **Year-over-Year (YoY) Growth**
 
----
-
-## 🛠️ Tools & Features Used
-
+## Tools & Features Used
 - Excel Pivot Tables
 - Slicers for dynamic filtering
 - Named Ranges for dynamic references
@@ -49,25 +47,16 @@ The following Key Performance Indicators (KPIs) were used:
 - Interactive Text Boxes linked to KPIs
 - Custom formatting and design
 
----
-
-##  Purpose
-
-The goal of this dashboard is to:
-
+## Purpose
+**The goal of this dashboard is to:**
 - Identify key trends in sales and cost over time
 - Compare current vs previous year performance
 - Help decision-makers quickly interpret results
 - Create a user-friendly and clean interface
-
----
-
-## 📎 Preview
+- 
+## Preview
 
 <img width="1412" height="676" alt="salesperformance" src="https://github.com/user-attachments/assets/e17208cf-3806-4104-a247-8fcf326a0a26" />
-
-
----------------------
 
 ##  Live Demo / View
 
@@ -83,8 +72,7 @@ I look forward to applying similar skills in real-world business scenarios.
 This project is open-source and
 Feel free to use, modify, and share it with proper attribution.
 
-
---------------------------------------------------------------------------------------------------
+----------
 # Employee Insights Dashboard
 ## DataSet Used 
 - <a href=https://github.com/zarifamammadova/my-excel-dashboard2/blob/main/SECONDDASHBOARD.xlsx>DataSet</a>
@@ -110,12 +98,7 @@ Features
 ## Conclusion
 
 This Excel dashboard provides a clear and concise overview of key employee metrics, such as tenure, satisfaction, and department-wise distribution. By leveraging Pivot Tables and dynamic formulas like GETPIVOTDATA, the report enables real-time analysis and data-driven insights. The visualizations, particularly the line chart of average tenure over years, help highlight trends and patterns in employee retention.
-
 This project demonstrates the practical application of Excel tools in HR analytics and can be a valuable component in a data analyst or HR specialist's portfolio.
-
-
------------------------------
-
 
 ##  License
 
@@ -164,69 +147,54 @@ All data rights belong to their respective owners.
 No commercial use is intended.
 
 ------------------------------------------------
-# 📊 SQL Solutions – AdventureWorks Database
+# SQL Solutions – AdventureWorks Database
 
 This repository contains SQL queries based on the **AdventureWorks** sample database. The queries cover a wide range of SQL techniques such as `JOINs`, `Window Functions`, `Filtering`, `Aggregation`, and more. Each query is crafted to solve practical data-related problems.
 
 
-## 📁 File: `sample-query.sql`
+## File: `sample-query.sql`
 
-### 1️⃣ Employee Full Names and Cities
+### 1 Employee Full Names and Cities
 **Description:** Retrieves full names of employees (`FirstName` + `LastName`) along with their city. Results are ordered by `LastName` and `FirstName`.
 
----
-
-### 2️⃣ Filtered Sales Orders
+### 2 Filtered Sales Orders
 **Description:** Retrieves sales orders where:
 - `OrderQty` is greater than 5,
 - `UnitPriceDiscount` is less than 1000,
 - `TotalDue` is greater than 100.
 
----
+## File: `employee-vacation.sql`
 
-## 📁 File: `employee-vacation.sql`
-
-### 3️⃣ Least Vacation Hours by Job Title
+### 3 Least Vacation Hours by Job Title
 **Description:** Uses `FIRST_VALUE()` to find the employee with the **least number of vacation hours** in each job title category.
 
----
+## File: `sales-quota-analysis.sql`
 
-## 📁 File: `sales-quota-analysis.sql`
-
-### 4️⃣ First and Last Quarter SalesQuota Difference
+### 4 First and Last Quarter SalesQuota Difference
 **Description:** For employees with `BusinessEntityID` between 274 and 275 and years after 2005, calculates the difference between the **first and last quarter's sales quotas** using `FIRST_VALUE()` and `LAST_VALUE()`.
 
----
-
-### 5️⃣ Next Year's SalesQuota using `LEAD()`
+### 5 Next Year's SalesQuota using `LEAD()`
 **Description:** For `BusinessEntityID = 277` and years 2011–2012, fetches the current year's quota and the next year's using the `LEAD()` window function.
 
----
-
-### 6️⃣ Next Quarter's SalesQuota and Difference
+### 6 Next Quarter's SalesQuota and Difference
 **Description:** For `BusinessEntityID = 277` in 2012 and 2013, shows the quota and difference between current and next quarter using `LEAD()`.
 
----
+## File: `inventory-ranking.sql`
 
-## 📁 File: `inventory-ranking.sql`
-
-### 7️⃣ Product Ranking by Location
+### 7 Product Ranking by Location
 **Description:** Uses `DENSE_RANK()` to rank products based on their location. Useful for inventory management insights.
 
----
-
-## ✅ Technologies Used
+## Technologies Used
 
 - **SQL Server (T-SQL)**
 - **AdventureWorks Sample Database**
 
----
 
 ## 📌 Purpose
 
 This repository was created for learning and practicing SQL with real-world database structures. Each query is written with clarity and structured for reusability.
 
-Feel free to explore, fork, or contribute!
+
 
 
 
