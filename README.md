@@ -1,3 +1,28 @@
+# Furniture Sales Overview Dashboard
+This project contains an interactive Excel dashboard and a dataset analyzing furniture sales across the United States. The analysis focuses on sales, profit, shipping duration, and customer segments.
+
+## Dashboard
+An Excel dashboard (sheet:Dashboard) was built to summarize:
+Total sales and profit,quantity by state, category, and shipping mode
+Monthly trends in sales performance
+Top-performing products and sub-categories
+Duration between order and shipping dates
+
+
+**Preview**
+<img width="1412" height="676" alt="Furniture Sales Overwiew" src="https://github.com/zarifamammadova/myportfolio/blob/main/Screenshot%202025-07-19%20180515.png"/>
+
+
+**The dashboard allows quick business insights and can help identify opportunities to optimize logistics and boost profitability.**
+
+**Dataset**
+The raw data (sheet: Dataset) contains:
+**9994 rows** and **21 columns**
+
+**Purpose**
+This project showcases my data visualization skills using Excel and highlights how raw data can be transformed into actionable insights.
+
+------------------------------------------------------------------------------------------
 #  Sales Performance Dashboard
 
 This project is an interactive **Excel dashboard** designed to analyze and visualize sales performance using key metrics and dynamic elements.
@@ -7,12 +32,11 @@ This project is an interactive **Excel dashboard** designed to analyze and visua
 ##  KPIs Analyzed
 
 The following Key Performance Indicators (KPIs) were used:
-
-- 💰 **Sales** (Current Year vs Previous Year)
-- 📦 **Quantity Sold**
-- 💸 **Cost**
-- 📈 **Profit**
-- 🔄 **Year-over-Year (YoY) Growth**
+-  **Sales** (Current Year vs Previous Year)
+-  **Quantity Sold**
+-  **Cost**
+-  **Profit**
+-  **Year-over-Year (YoY) Growth**
 
 ---
 
