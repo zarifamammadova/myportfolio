@@ -11,7 +11,7 @@ Duration between order and shipping dates
 
 **Preview**
 
-
+<img width="1412" height="676" alt="furniture sales overwiew" src="https://github.com/zarifamammadova/myportfolio/blob/main/Screenshot%202025-07-19%20185432.png" />
 
 **The dashboard allows quick business insights and can help identify opportunities to optimize logistics and boost profitability.**
 
