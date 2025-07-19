@@ -15,7 +15,7 @@ Duration between order and shipping dates
 
 **The dashboard allows quick business insights and can help identify opportunities to optimize logistics and boost profitability.**
 ##  view
-<a href=https://github.com/zarifamammadova/myportfolio/blob/main/Furniture%20sales%20overview.xlsx)>DataSet</a>
+<a href=https://github.com/zarifamammadova/myportfolio/blob/main/Furniture%20sales%20overview.xlsx>DataSet</a>
 
 **Dataset**
 The raw data (sheet: Dataset) contains:
