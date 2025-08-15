@@ -1,9 +1,12 @@
 # Sales Dashboard
 
 This project is an interactive sales dashboard built with Tableau. It is designed to monitor and analyze the company’s sales performance across different dimensions.
-Features
+
+**Preview**
+
 <img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Screenshot%202025-08-15%20132431.png" />
 
+## Features
 Year Filter – Users can select between 2018–2022.
 Highlight Country – Emphasize a specific country in the data for better visibility.
 Sales Comparison – Visual analysis of sales volumes by regions and countries.
@@ -24,8 +27,7 @@ Understand year-over-year and product category changes.
 ## How to Open the File
 Install Tableau Desktop or Tableau Public.
 Open the Sales Dashboard.twb file.
-Use the parameters to apply your own filters.# Furniture Sales Overview Dashboard
-This project contains an interactive Excel dashboard and a dataset analyzing furniture sales across the United States. The analysis focuses on sales, profit, shipping duration, and customer segments.
+Use the parameters to apply your own filters.
 
 ## Furniture Overview Dashboard
 An Excel dashboard (sheet:Dashboard) was built to summarize:
@@ -34,7 +36,7 @@ Monthly trends in sales performance
 Top-performing products and sub-categories
 Duration between order and shipping dates
 
-
+---------------------------------------------
 **Preview**
 
 <img width="1412" height="676" alt="furniture sales overwiew" src="https://github.com/zarifamammadova/myportfolio/blob/main/Screenshot%202025-07-19%20185432.png" />
