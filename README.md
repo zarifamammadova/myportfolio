@@ -1,5 +1,37 @@
-# Sales Dashboard
+## Sales Dashboard (Power BI)
 
+This project is an interactive sales analytics dashboard built with Power BI. It provides key insights into sales performance, product trends, and regional contributions.
+
+**Preview**
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/PowerBI.png" />
+
+# Features
+
+Dynamic Filters – Slice and filter data by year, product category, region, and customer segment.
+KPI Cards – Quick view of total sales, profit, and units sold.
+Trend Analysis – Visualize monthly and yearly sales trends.
+Top Products & Customers – Identify best-performing products and highest-value customers.
+Geographical Insights – Interactive map showing sales distribution by region/country.
+Drill-Through Functionality – Explore detailed reports from summary views.
+
+# Technologies Used
+
+Microsoft Power BI Desktop
+DAX (Data Analysis Expressions) for calculated measures
+Interactive visuals including bar charts, line charts, and maps
+
+# Benefits
+
+Monitor business performance in real time
+Identify growth opportunities by region and product
+Enable data-driven decision making
+How to Open the File
+Install Microsoft Power BI Desktop.
+Download and open the Sales Dashboard with PowerBI.pbix file.
+Use slicers and filters to interact with the dashboard.
+
+
+# Sales Dashboard (Tableau)
 This project is an interactive sales dashboard built with Tableau. It is designed to monitor and analyze the company’s sales performance across different dimensions.
 
 **Preview**
