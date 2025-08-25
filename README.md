@@ -1,3 +1,42 @@
+# Finance Dashboard (Power BI)
+
+This project is an interactive **Finance Dashboard** built with Power BI.  
+It provides key insights into financial performance across multiple dimensions, enabling decision-makers to track growth, compare scenarios, and analyze performance trends.  
+
+## Key Features
+
+- **Total Amount & YoY Analysis**  
+  - Displays the overall total amount ($1.4bn) with a Year-over-Year (YoY) growth of 66%.  
+  - Tracks monthly and yearly performance trends.  
+
+- **Total Amount by Organizations**  
+  - Compares financial contributions across different divisions (e.g., Canadian, Southeast, Southwest, Central, etc.).  
+  - Highlights the top-performing regions.  
+
+- **Scenario Analysis**  
+  - Breaks down the total amount by **Actual** vs **Budget**, providing a clear comparison of planned vs achieved results.  
+
+- **Department-Level Analysis**  
+  - Shows both **Current Year** totals and **YoY growth** across departments such as Manufacturing, Sales & Marketing, R&D, Inventory, and more.  
+
+- **Account Type Breakdown**  
+  - Visualizes the financial structure by **Assets, Liabilities, Revenue, Expenditures, Balances, and Flow**.  
+
+- **Time-Based Analysis**  
+  - Yearly comparisons with clear **YoY trends**.  
+  - Line charts showing monthly variations for current and previous years.  
+
+## Technologies Used
+- **Power BI** for data visualization and interactive dashboard design.  
+- **Sample financial dataset** (for demonstration purposes).  
+
+## Dashboard Preview
+
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Screenshot%202025-08-25%20091039.png" />
+---
+
+📊 This dashboard demonstrates the ability to design **professional financial reports**, perform **comparative analysis**, and present insights in a **clear and interactive way**.  
+
 ## Sales Dashboard (Power BI)
 
 This project is an interactive sales analytics dashboard built with Power BI. It provides key insights into sales performance, product trends, and regional contributions.
