@@ -1,3 +1,57 @@
+# HR Dashboard (Power BI)
+Interactive Power BI dashboard providing insights into workforce demographics, performance metrics, and salary distribution. Ideal for HR teams and managers to track trends, analyze employee data, and make informed decisions.
+
+## Key Features 
+
+-Active & Terminated Employees YoY
+-Total Active Employees: 8K (YoY +227%)
+-Total Terminated Employees: 966 (YoY +4730%)
+-Trend analysis for workforce retention and attrition
+
+## Employee Demographics 
+
+-Gender Distribution: 54% Female, 46% Male
+
+-Age Groups: Largest 35-44 (2.4K), Smallest >25 (0.5K)
+
+-Drill-down filters by Gender, Department, and Year
+
+## Salary Insights
+
+-Average Salary: 70.96K (YoY 0%)
+
+-Salary breakdown by Gender & Education Level (High School, Bachelor, Master, PhD)
+
+# Department Analysis
+
+-Active employees per department: Operations 2.4K, HR 0.2K
+
+-YoY growth tracking by department
+
+# Time-Based Analysis
+-Year-over-Year trends
+
+-Interactive monthly and yearly comparisons
+
+📊 Technologies Used
+
+Power BI Desktop – dashboard design and visualization
+
+DAX Measures – YoY calculations, KPIs
+
+Sample Employee Dataset – for demonstration (no confidential data)
+
+**Preview**
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/HR%20Dashboard.png" />
+
+⚡ How to Use
+
+Open the .PBIX file in Power BI Desktop or Power BI Service.
+
+Use top-panel filters to explore data by Gender, Department, or Year.
+
+Review KPIs and visualizations to monitor workforce trends.
+
 # Finance Dashboard (Power BI)
 
 This project is an interactive **Finance Dashboard** built with Power BI.  
