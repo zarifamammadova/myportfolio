@@ -42,7 +42,7 @@ DAX Measures – YoY calculations, KPIs
 Sample Employee Dataset – for demonstration (no confidential data)
 
 **Preview**
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/HR%20Dashboard.png" />
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/HRDashboard%20(2).png" />
 
 ⚡ How to Use
 
