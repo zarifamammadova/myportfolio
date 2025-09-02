@@ -1,4 +1,4 @@
-
+<img width="1327" height="764" alt="image" src="https://github.com/user-attachments/assets/e6561f66-59c7-4ade-b98b-7514199b12d7" />
 <img width="1262" height="732" alt="Screenshot 2025-08-25 091039" src="https://github.com/user-attachments/assets/ed6fd40e-13c4-4f40-b5d8-e61b3d7ec97e" />
 <img width="1406" height="781" alt="Screenshot 2025-08-05 222134" src="https://github.com/user-attachments/assets/7059b6d9-1580-433d-9f0d-94c29ddd516c" />
 <img width="1298" height="727" alt="HRDashboard (2)" src="https://github.com/user-attachments/assets/421b1d86-f39a-4765-881e-8e2f7a73ac44" />
