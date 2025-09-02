@@ -1,3 +1,67 @@
+# 📊 Human Resources Dashboard (Tableau)
+
+This dashboard provides an overview of employee demographics, performance, income, and departmental distribution.
+
+**Preview**
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/HRoverview.png" />
+
+---
+
+## 👥 Workforce Overview
+- *Total Active Employees:* 7,984  
+- *Hiring & Termination:*  
+  - 8,950 employees hired  
+  - 966 employees terminated  
+  - *Turnover rate:* ~11%  
+
+---
+
+## 🏢 Department Insights
+- Largest departments: *Operations (2,429)* and *Sales (1,634)*  
+- Smallest departments: *HR* and *Finance*  
+
+---
+
+## ⚖ Gender Balance
+- *54% Male, **46% Female*  
+- Retention rate: *89%* for both genders  
+
+---
+
+## 🎓 Education & Age
+- Most employees hold a *Bachelor’s degree*  
+- Dominant age group: *25–44 years*  
+## 📈 Performance & Education
+- *PhD holders* mostly rated as *Excellent*  
+- *50% of Bachelor’s degree holders* rated as *Good*  
+
+---
+
+## 💰 Income Analysis
+- *High School:* 61K – 63K  
+- *Bachelor:* 66K – 74K  
+- *Master:* 80K – 86K  
+- *PhD:* 80K – 98K  
+- Clear *positive correlation between education level and salary*  
+
+---
+
+## 💼 Salary & Roles
+- *Top-paying roles:* Finance Manager, IT Manager, Marketing Manager  
+- *Lower-paying roles:* HR Assistant, Sales Specialist  
+- Salaries increase with *experience and job level*  
+
+---
+
+## 🌍 Location Insights
+- *70% of employees* work at HQ  
+- *30% in branches*  
+- Key regions: *New York, Pennsylvania, Ohio*  
+
+---
+
+✨ These insights highlight workforce distribution, performance trends, and compensation patterns across different demographics.
+____________________________________________________________________________________________________________________________________
 # HR Dashboard (Power BI)
 Interactive Power BI dashboard providing insights into workforce demographics, performance metrics, and salary distribution. Ideal for HR teams and managers to track trends, analyze employee data, and make informed decisions.
 
