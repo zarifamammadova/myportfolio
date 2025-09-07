@@ -62,6 +62,80 @@ This dashboard provides an overview of employee demographics, performance, incom
 
 ✨ These insights highlight workforce distribution, performance trends, and compensation patterns across different demographics.
 ____________________________________________________________________________________________________________________________________
+## Fraud Risk Analysis Dashboard (Power BI)
+
+Bu layihə saxta (fraudulent) əməliyyatların analizi üçün hazırlanmış Power BI Dashboard-dur. Dashboard vasitəsilə müxtəlif ölçülərdə saxtakarlıq risklərini izləmək, analiz etmək və müqayisə aparmaq mümkündür.
+
+## Preview
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Fradulent%20Risk.png" />
+
+## 📊 Dashboard Xüsusiyyətləri
+1. Ümumi Analiz (Overall View)
+
+Fraudulent Transactions (Saxta Əməliyyatlar): 66
+
+Fraud Rate (Saxtakarlıq Faizi): 3.09%
+
+Fraudulent Transaction Amount (Saxta Əməliyyat Məbləği): 11.01K
+
+Top Fraud Payment Type (Ən çox istifadə olunan fırıldaq ödəniş növü): Debit Card
+
+## Vizualizasiyalar:
+
+🌍 Fraudulent Transaction by Location – Xəritə üzərində regionlara görə fırıldaq əməliyyatlar.
+
+📈 Fraudulent Transactions by Month – Aylara görə əməliyyat sayı (ən çox iyul ayında: 15).
+
+💻 Fraudulent Transaction Amount by Device Type – Cihazlara görə bölgü:
+
+Desktop: 33.5%
+
+Laptop: 31.64%
+
+Tablet: 19.37%
+
+Mobile: 15.5%
+
+## 2. Dərin Analiz (Detailed Analysis)
+Vizualizasiyalar:
+
+🛍 Total Amount by Product Category and Device Type – Məhsul növlərinə və ödəniş üsullarına görə ümumi məbləğ.
+
+🥇 Total Amount by Customer Loyalty Tier – Müştəri loyallığına görə paylanma:
+
+Bronze: 38%
+
+Silver: 24%
+
+Gold: 20%
+
+Digər: 18%
+
+⏰ Fraudulent Transaction Amount by Time of Day – Günün vaxtına görə əməliyyat məbləği (ən çox günortadan sonra).
+
+👥 Fraudulent Transaction Amount by Age Groups – Yaş qruplarına görə fırıldaq əməliyyatları (ən çox 45-54 yaş qrupu).
+
+## 🚀 Texnologiyalar
+
+Power BI – Dashboard qurulması və vizual analiz
+
+DAX (Data Analysis Expressions) – Hesablama və metriklər
+
+Data Cleaning & Transformation – Məlumatların hazırlanması
+
+## 🔍 İstifadə Halları
+
+Bank və maliyyə institutlarında risklərin izlənməsi
+
+Müştəri davranışlarının təhlili
+
+Saxta əməliyyatların vaxtında aşkarlanması
+
+
+## 📝 Nəticə
+
+Bu dashboard fraud analizi üçün güclü bir alətdir və həm ümumi statistikaları, həm də detallı parçalanmanı təqdim edir. Gələcəkdə modelə ML əsaslı fraud prediction də inteqrasiya edilə bilər.
+
 # HR Dashboard (Power BI)
 Interactive Power BI dashboard providing insights into workforce demographics, performance metrics, and salary distribution. Ideal for HR teams and managers to track trends, analyze employee data, and make informed decisions.
 
