@@ -62,6 +62,63 @@ This dashboard provides an overview of employee demographics, performance, incom
 
 ✨ These insights highlight workforce distribution, performance trends, and compensation patterns across different demographics.
 ____________________________________________________________________________________________________________________________________
+## 📊 E-Commerce Sales Dashboard (Power BI)
+
+This project showcases an interactive E-Commerce Sales Dashboard built for analyzing business performance. The dashboard provides insights into sales trends, customer behavior, product performance, and geographical distribution.
+
+## Preview
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Ecommerce.png" />
+
+## Features
+
+# Revenue Analysis
+
+Total Revenue: $105M
+
+YoY Growth: +16.1%
+
+Quantity & Pricing
+
+Total Quantity Sold: 6M units (+16.1% vs PY)
+
+Average Unit Price: $17.6 (0% vs PY)
+
+Customer Insights
+
+Total Customers: 9,191
+
+Top 5 Spending Customers breakdown
+
+Product Performance
+
+# Top 5 Units Sold by Category (e.g., Ct, Cans, Bottles, etc.)
+
+Sales Trends
+
+Monthly sales trend visualization
+
+Geographical Distribution
+
+Top markets: Bangladesh, India, Lithuania, Poland, Germany
+
+## 🛠️ Tools & Technologies
+
+Power BI – for dashboard development & visualization
+
+Data Modeling – transforming raw sales data into KPIs
+
+DAX (Data Analysis Expressions) – for custom calculations
+
+## 📌 Use Case
+
+This dashboard can be used by:
+
+Business Managers to track revenue growth and market performance
+
+Data Analysts to identify trends and customer behavior
+
+E-Commerce Teams to optimize sales strategies
+_______________________________________________________________________________________________________________________________________________________________________________
 ## Fraud Risk Analysis Dashboard (Power BI)
 
 Bu layihə saxta (fraudulent) əməliyyatların analizi üçün hazırlanmış Power BI Dashboard-dur. Dashboard vasitəsilə müxtəlif ölçülərdə saxtakarlıq risklərini izləmək, analiz etmək və müqayisə aparmaq mümkündür.
