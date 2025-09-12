@@ -46,7 +46,7 @@ This dashboard provides an overview of employee demographics, performance, incom
 
 ---
 
-## 💼 Salary & Roles
+# 💼 Salary & Roles
 - *Top-paying roles:* Finance Manager, IT Manager, Marketing Manager  
 - *Lower-paying roles:* HR Assistant, Sales Specialist  
 - Salaries increase with *experience and job level*  
@@ -67,11 +67,11 @@ ________________________________________________________________________________
 This project showcases an interactive E-Commerce Sales Dashboard built for analyzing business performance. The dashboard provides insights into sales trends, customer behavior, product performance, and geographical distribution.
 
 ## Preview
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Ecommerce.png" />
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/E-commerce.png" />
 
 ## Features
 
-# Revenue Analysis
+## Revenue Analysis
 
 Total Revenue: $105M
 
@@ -81,8 +81,6 @@ Quantity & Pricing
 
 Total Quantity Sold: 6M units (+16.1% vs PY)
 
-Average Unit Price: $17.6 (0% vs PY)
-
 Customer Insights
 
 Total Customers: 9,191
@@ -91,7 +89,7 @@ Top 5 Spending Customers breakdown
 
 Product Performance
 
-# Top 5 Units Sold by Category (e.g., Ct, Cans, Bottles, etc.)
+## Top 5 Units Sold by Category (e.g., Ct, Cans, Bottles, etc.)
 
 Sales Trends
 
