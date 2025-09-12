@@ -89,7 +89,7 @@ Top 5 Spending Customers breakdown
 
 Product Performance
 
-## Top 5 Units Sold by Category (e.g., Ct, Cans, Bottles, etc.)
+## Top 5 Units Sold by Category 
 
 Sales Trends
 
