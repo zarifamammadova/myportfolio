@@ -68,7 +68,7 @@ This project is a **Power BI dashboard** designed to analyze **delivery performa
 The main goal is to track restaurant order dynamics, customer preferences, and driver performance in an interactive way. 
 
 ## Preview
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Delivery.png" />
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/food%20delivery.png" />
 
 ---
 
