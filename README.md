@@ -117,62 +117,7 @@ This dashboard provides an overview of employee demographics, performance, incom
 
 ✨ These insights highlight workforce distribution, performance trends, and compensation patterns across different demographics.
 ____________________________________________________________________________________________________________________________________
-# 📊 Delivery & Customer Insights Dashboard (Power BI)
 
-This project is a **Power BI dashboard** designed to analyze **delivery performance and customer behavior**.  
-The main goal is to track restaurant order dynamics, customer preferences, and driver performance in an interactive way. 
-
-## Preview
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Food%20deliveries.png" />
-
----
-
-## 🚀 Key Features
-
-- **Delivery Insights**
-  - Total Orders: **2000**
-  - Average Delivery Duration: ⏱ **64 minutes**
-  - Customer Satisfaction Rating: ⭐ **3.01/5**
-  - Top Restaurant: **Butler and Sons**
-  - Delivery time analysis by days of the week
-  - Driver performance comparison (average time & rating)
-
-- **Customer Insights**
-  - Cuisine distribution:  
-    🍰 Dessert – 21%  
-    🍔 Fastfood – 21%  
-    🍽 Meal – 21%  
-    🥤 Drinks – 19%  
-    🍪 Snack – 19%  
-  - Customer order count and total spend
-  - Order distribution by location
-
----
-
-## 📉 Key Insights
-- Customers mainly prefer **dessert, fast food, and meal categories**.  
-- **Butler and Sons** is the leading restaurant by total orders.  
-- Delivery times vary by day — they tend to be longer on **Monday and Saturday**.  
-- Driver performance differs significantly; for example, **Michelle Jacobs** achieved the best results in both speed and rating.  
-
----
-
-## 🛠 Tools & Technologies
-- Power BI (Data Modeling & Visualization)  
-- DAX Calculations  
-- Interactive Dashboards (Slicers, Filters, Drill-down)  
-
----
-
-## 🔎 Conclusion
-This dashboard helps businesses to:  
-- Understand customer purchasing behavior  
-- Optimize delivery times  
-- Identify top-performing restaurants and drivers  
-- Make **data-driven decisions**  
-
----
-____________________________________________________________________________________________________________________________________________________________________________________________________
 ## 📊 E-Commerce Sales Dashboard (Power BI)
 
 This project showcases an interactive E-Commerce Sales Dashboard built for analyzing business performance. The dashboard provides insights into sales trends, customer behavior, product performance, and geographical distribution.
