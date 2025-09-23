@@ -335,7 +335,7 @@ It provides key insights into financial performance across multiple dimensions, 
 
 ## Dashboard Preview
 
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Screenshot%202025-08-25%20091039.png" />
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/old%20files/Screenshot%202025-08-25%20091039.png" />
 ---
 
 📊 This dashboard demonstrates the ability to design **professional financial reports**, perform **comparative analysis**, and present insights in a **clear and interactive way**. 
