@@ -338,39 +338,7 @@ It provides key insights into financial performance across multiple dimensions, 
 <img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Screenshot%202025-08-25%20091039.png" />
 ---
 
-📊 This dashboard demonstrates the ability to design **professional financial reports**, perform **comparative analysis**, and present insights in a **clear and interactive way**.  
-
-## Sales Dashboard (Power BI)
-
-This project is an interactive sales analytics dashboard built with Power BI. It provides key insights into sales performance, product trends, and regional contributions.
-
-**Preview**
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/PowerBI.png" />
-
-# Features
-
-Dynamic Filters – Slice and filter data by year, product category, region, and customer segment.
-KPI Cards – Quick view of total sales, profit, and units sold.
-Trend Analysis – Visualize monthly and yearly sales trends.
-Top Products & Customers – Identify best-performing products and highest-value customers.
-Geographical Insights – Interactive map showing sales distribution by region/country.
-Drill-Through Functionality – Explore detailed reports from summary views.
-
-# Technologies Used
-
-Microsoft Power BI Desktop
-DAX (Data Analysis Expressions) for calculated measures
-Interactive visuals including bar charts, line charts, and maps
-
-# Benefits
-
-Monitor business performance in real time
-Identify growth opportunities by region and product
-Enable data-driven decision making
-How to Open the File
-Install Microsoft Power BI Desktop.
-Download and open the Sales Dashboard with PowerBI.pbix file.
-Use slicers and filters to interact with the dashboard.
+📊 This dashboard demonstrates the ability to design **professional financial reports**, perform **comparative analysis**, and present insights in a **clear and interactive way**. 
 
 
 # Sales Dashboard (Tableau)
@@ -413,7 +381,7 @@ Duration between order and shipping dates
 ---------------------------------------------
 **Preview**
 
-<img width="1412" height="676" alt="furniture sales overwiew" src="https://github.com/zarifamammadova/myportfolio/blob/main/Screenshot%202025-07-19%20185432.png" />
+<img width="1412" height="676" alt="furniture sales overwiew" src="https://github.com/zarifamammadova/myportfolio/blob/main/old%20files/Screenshot%202025-07-19%20185432.png" />
 
 **The dashboard allows quick business insights and can help identify opportunities to optimize logistics and boost profitability.**
 ##  view
@@ -441,7 +409,7 @@ The following Key Performance Indicators (KPIs) were used:
 
 ## Preview
 
-<img width="1412" height="676" alt="salesperformance" src="https://github.com/user-attachments/assets/e17208cf-3806-4104-a247-8fcf326a0a26" />
+<img width="1412" height="676" alt="salesperformance" src="https://github.com/zarifamammadova/myportfolio/blob/main/old%20files/salesperformance.png" />
 
 ## Tools & Features Used
 - Excel Pivot Tables
