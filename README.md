@@ -178,7 +178,7 @@ ________________________________________________________________________________
 Bu layihə saxta (fraudulent) əməliyyatların analizi üçün hazırlanmış Power BI Dashboard-dur. Dashboard vasitəsilə müxtəlif ölçülərdə saxtakarlıq risklərini izləmək, analiz etmək və müqayisə aparmaq mümkündür.
 
 ## Preview
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Fradulent%20Risk.png" />
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Power%20BI/Fradulent%20Risk.png" />
 
 ## 📊 Dashboard Xüsusiyyətləri
 1. Ümumi Analiz (Overall View)
