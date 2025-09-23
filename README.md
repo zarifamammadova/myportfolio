@@ -58,7 +58,7 @@ This dashboard helps businesses to:
 This dashboard provides an overview of employee demographics, performance, income, and departmental distribution.
 
 **Preview**
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/HRoverview.png" />
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Power%20BI/HRoverview.png" />
 
 ---
 
