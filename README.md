@@ -378,7 +378,7 @@ This project is an interactive sales dashboard built with Tableau. It is designe
 
 **Preview**
 
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Screenshot%202025-08-15%20132431.png" />
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/old%20files/Screenshot%202025-08-15%20132431.png" />
 
 ## Features
 Year Filter – Users can select between 2018–2022.
