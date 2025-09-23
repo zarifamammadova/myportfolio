@@ -123,7 +123,7 @@ ________________________________________________________________________________
 This project showcases an interactive E-Commerce Sales Dashboard built for analyzing business performance. The dashboard provides insights into sales trends, customer behavior, product performance, and geographical distribution.
 
 ## Preview
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/E-commerce.png" />
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Power%20BI/E-commerce.png" />
 
 ## Features
 
