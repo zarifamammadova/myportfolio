@@ -1,3 +1,57 @@
+# 📊 Medical Insurance Dashboard – Insights (Power BI)
+
+This dashboard analyzes medical insurance charges across different demographic and lifestyle factors. 
+preview:
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Power%20BI/medical%20insurance.png" />
+
+Key findings are:
+
+🚬 Impact of Smoking
+
+Smokers have an average medical charge of 32K.
+
+Non-smokers spend only around 8K.
+👉 Smoking is the most critical driver of higher medical expenses.
+
+## 🌍 Regional & Gender Differences
+
+Southeast shows the highest average charges (~15.8K).
+
+Southwest has the lowest (~11.2K).
+
+Gender differences are not significant, but regional variation is clearly visible.
+
+## 👶 Children & Charges
+
+Having children does not drastically change insurance costs.
+
+Families with 2–3 children have slightly higher averages (~15K).
+
+## 🏥 Region + Smoking Status
+
+In every region, smokers’ charges are much higher than non-smokers’.
+
+Example: Northeast → Smokers ~35K vs. Non-smokers ~8K.
+👉 Regardless of location, smoking consistently drives up costs.
+
+## ⚖️ BMI & Medical Costs
+
+The average BMI = 31.
+
+Higher BMI correlates with higher charges.
+
+Especially beyond BMI 35, medical expenses increase sharply.
+
+## 👤 Age & Medical Costs
+
+The average age = 39.
+
+Costs rise steadily with age.
+
+Young adults (20–30) have lower expenses, but after 50 years, charges escalate significantly.
+
+--
+
 # 📊 Delivery & Customer Insights Dashboard (Power BI)
 
 This project is a **Power BI dashboard** designed to analyze **delivery performance and customer behavior**.  
