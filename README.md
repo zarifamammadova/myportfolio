@@ -2,7 +2,7 @@
 
 This dashboard analyzes medical insurance charges across different demographic and lifestyle factors. 
 preview:
-<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Power%20BI/medical%20insurance.png" />
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Power%20BI/medical%20insurance%20(2).png" />
 
 Key findings are:
 
