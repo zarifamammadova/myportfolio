@@ -1,4 +1,4 @@
-# 📊 Medical Insurance Dashboard – Insights (Power BI)
+# 📊 Medical Insurance Cost Dashboard – Insights (Power BI)
 
 This dashboard analyzes medical insurance charges across different demographic and lifestyle factors. 
 preview:
