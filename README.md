@@ -226,6 +226,67 @@ Business Managers to track revenue growth and market performance
 Data Analysts to identify trends and customer behavior
 
 E-Commerce Teams to optimize sales strategies
+
+-------
+# 🎶 YouTube Music Performance - 2025 (Tableau)  
+
+This dashboard highlights the key performance metrics of YouTube Music channels in 2025.  
+
+## Preview
+<img width="1412" height="676" alt="sales report" src="https://github.com/zarifamammadova/myportfolio/blob/main/Tableau/Youtube.png" />
+---
+
+## 📊 Overall Performance  
+- *Total Views:* 8B  
+- *Total Subscribers:* 646M  
+- *Average Duration:* 3.7 minutes  
+
+Short-to-mid length content dominates, with most videos clustering around 3–5 minutes.  
+
+---
+
+## 👩‍🎤 Top Channels by Views  
+- *ROSÉ* – 29.3% of total views  
+- *Lady Gaga* – 20.4%  
+- *Sabrina Carpenter* – 14.6%  
+
+➡ Together, these 3 artists capture *~64% of the entire viewership*.  
+
+---
+
+## 📂 Category Insights  
+- *Music category:* 7.43B views  
+- *People & Blogs:* 213M views  
+
+👉 Music content strongly outperforms other categories.  
+
+---
+
+## 🔗 Correlation Analysis  
+- *Duration vs. Views:* High-performing videos concentrate around *3–5 minutes*.  
+- *Followers vs. Views:* While subscriber count drives viewership, some channels gain massive views despite smaller follower bases (viral growth).  
+
+---
+
+## 🎵 Top Songs & Artists  
+- *Ed Sheeran* (Sapphire, Azizam)  
+- *Billie Eilish* (CHHIIRO, BIRDS OF, others)  
+
+Billie Eilish leads with multiple top-performing tracks, followed closely by Ed Sheeran.  
+
+---
+
+## ⏱ Song Duration – Top 10 Channels  
+- *Billie Eilish:* 4.5 min (avg)  
+- *Lady Gaga:* 4.3 min  
+- *Kendrick Lamar:* 3.9 min  
+- *Sabrina Carpenter:* 7 songs, 3.5 min (avg)  
+
+Other featured artists: *ROSÉ, Ed Sheeran, Sevdaliza, JENNIE, Shaboozey, LLOUD Official*.  
+
+---
+
+✨ This analysis shows that YouTube Music in 2025 is driven by short-to-mid length content, with a few superstar artists capturing the majority of attention
 _______________________________________________________________________________________________________________________________________________________________________________
 ## Fraud Risk Analysis Dashboard (Power BI)
 
